@@ -1,4 +1,9 @@
 services:
-  - type: static
+  - type: web
     name: aq50-autism-test
-    publishPath: .
+    runtime: static
+    staticPublishPath: .
+    buildCommand: echo "No build needed"
+    envVars:
+      - key: SKIP_INSTALL_DEPS
+        value: "true"
