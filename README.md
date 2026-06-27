@@ -70,9 +70,15 @@ This repo includes a Render configuration (`render.yaml`) to deploy as **static*
 - `staticPublishPath: .`
 - no build step needed (`buildCommand: echo "No build needed"`)
 
+Public link:
+https://aq50-autism-test.onrender.com/
+
 ---
 
 ## Tiếng Việt
+
+### Truy cập công khai
+https://aq50-autism-test.onrender.com/
 
 ### Dự án này là gì?
 **AQ-50** là bảng câu hỏi **tự sàng lọc** dựa trên **Autism-Spectrum Quotient (AQ)** do **Simon Baron-Cohen** và các cộng sự phát triển.  
